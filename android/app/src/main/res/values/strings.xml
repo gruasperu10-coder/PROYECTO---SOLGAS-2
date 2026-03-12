@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Solgas ClickShare</string>
+    <string name="title_activity_main">Solgas ClickShare</string>
+    <string name="package_name">com.solgas.clickshare</string>
+    <string name="custom_url_scheme">com.solgas.clickshare</string>
+</resources>

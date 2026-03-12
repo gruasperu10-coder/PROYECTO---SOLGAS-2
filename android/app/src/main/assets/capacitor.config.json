@@ -1,0 +1,6 @@
+{
+	"appId": "com.solgas.clickshare",
+	"appName": "Solgas ClickShare",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
